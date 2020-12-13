@@ -1,0 +1,1 @@
+This is a clone of the google homepage as my first use of CSS. I will be replicating the layout but not implementing any links.
